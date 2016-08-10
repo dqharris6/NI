@@ -1,0 +1,23 @@
+
+
+Version:	3.8
+CmdLine:	C:\Users\daltharr\Documents\NetBeansProjects\PMI_Scraper\dist\PMI_Scraper.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\daltharr\Documents\NetBeansProjects\PMI_Scraper\dist\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_91\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_91
+Check launcher:	C:\Program Files\Java\jre1.8.0_91\bin\javaw.exe (OK)
+Match:		1.8.0_91
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_91
+Ignore:		1.8.0_91
+Runtime used:	1.8.0_91 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_91\bin\javaw.exe
+Launcher args:	-jar "C:\Users\daltharr\Documents\NetBeansProjects\PMI_Scraper\dist\PMI_Scraper.exe"
+Args length:	84/32768 chars
+Exit code:	0
